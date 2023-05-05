@@ -61,7 +61,7 @@
     1. Credit Facilities / Fixed Deposit / Overdraft /Shares / Bonds / Funds  :red_circle:
 1. Commercial Proposal
     1. Form of Tender ("FOT") :red_circle:
-    1. [Preamble](/PN0000014171/schedule-of-particular/Preamble%20to%20BQ%20R1.pdf)
+    1. [Preamble](/PN0000014171/schedule-of-particular/Preamble%20to%20BQ%20R1.pdf) :white_circle:
     1. [Bill of Quantity](/PN0000014171/schedule-of-particular/BQ%20Normal%20-%20CW-2023-003.xlsm) ("BQ") :red_circle:
 1. Ownership & Directorship
     1. Ownership & Directorship Details :red_circle:
